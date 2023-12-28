@@ -1,2 +1,3 @@
 miyahara
-takamiya
+minami
+
